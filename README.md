@@ -1,2 +1,2 @@
-# pedro.github.io
+# http://pedro.github.io
 AGI
